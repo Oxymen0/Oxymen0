@@ -14,3 +14,6 @@ ol{
  list-style:lower-greek;
  font-weight:bolder;
 }
+dd {
+ word-spacing:10px;
+}
